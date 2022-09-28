@@ -11,4 +11,5 @@ Projeto para demonstrar como criar testes de integração para jobs Spring Batch
 
 ## Referências
 
+- [Vídeo do Youtube](https://youtu.be/i03ZHpSjDZI)
 - [Curso de Spring Batch](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/?referralCode=8743E206FA9240686B20)
